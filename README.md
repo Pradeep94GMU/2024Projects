@@ -107,14 +107,13 @@ This is a full-stack web application built using Spring Boot, React, and MySQL. 
 - Enhanced skills in handling large datasets and optimizing for performance.
 
 ## Screenshots
-## Screenshots
-![Alt text for dashboard](./screenshots/create.png)
-![Alt text for search](./screenshots/Search.png)
 
 
-### Dashboard
+### Create Username
 ![Dashboard of Username Management](./screenshots/create.png)
-### Username Search
+### Username Search found
+![Search functionality for usernames](./screenshots/Search2.png)
+### Username Search failed
 ![Search functionality for usernames](./screenshots/Search.png)
 
 
