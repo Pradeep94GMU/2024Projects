@@ -1,9 +1,19 @@
 # Username Management Application
 
-This is a full-stack web application built using Spring Boot, React, and MySQL. It provides features for searching usernames, displaying total user counts, and generating new usernames. The frontend is styled using Bootstrap.
+This is a full-stack web application built using Spring Boot, React, and MySQL, designed to efficiently manage and search through millions of usernames. The application provides key functionalities such as searching usernames, displaying total user counts, and generating new usernames, with performance insights such as response times for both found and not-found cases.
+
+Key Features
+- **Username Search**: Search through a large database of usernames and get real-time feedback on whether the username exists.
+- **Response Time Tracking**: Measure the time taken for each search request, whether the username is found or not, allowing for insights into performance at scale.
+- **Total User Count**: Display the total number of usernames stored in the database with dynamic formatting (e.g., 2M, 1B).
+- **Username Generation**: Automatically generate new usernames based on predefined rules and add them to the database.
+- **Bootstrap Styling**: Clean and responsive user interface styled using Bootstrap for easy navigation.
+
+## Future Goals
+- **Optimization**: Further optimization of the search feature for faster response times when searching through millions of usernames. The goal is to ensure that the system remains efficient and scalable.
+- **Performance Improvements**: Analyze search algorithms and database query performance to reduce response times and improve user experience.
 
 ## Table of Contents
-- [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Endpoints](#endpoints)
 - [Challenges and Innovations](#challenges-and-innovations)
@@ -13,10 +23,6 @@ This is a full-stack web application built using Spring Boot, React, and MySQL. 
 - [Screenshots](#screenshots)
 - [License](#license)
 
-## Features
-- Search for existing usernames in the database
-- Display total usernames with formatting (1K, 1M, etc.)
-- Create new usernames in bulk
 
 ## Technologies Used
 - **Backend**: Spring Boot, Java
