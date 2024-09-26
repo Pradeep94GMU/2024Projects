@@ -107,7 +107,14 @@ This is a full-stack web application built using Spring Boot, React, and MySQL. 
 - Enhanced skills in handling large datasets and optimizing for performance.
 
 ## Screenshots
-(Include screenshots of your project in action here)
+## Screenshots
+
+### Dashboard
+![Dashboard of Username Management](./screenshots/dashboard.png)
+
+### Username Search
+![Search functionality for usernames](./screenshots/search-username.png)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
