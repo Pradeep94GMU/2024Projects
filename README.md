@@ -112,7 +112,7 @@ This is a full-stack web application built using Spring Boot, React, and MySQL. 
 ### Create Username
 ![Dashboard of Username Management](./screenshots/create.png)
 ### Username Search found
-![Search functionality for usernames](./screenshots/Search2.png)
+![Search functionality for usernames](./screenshots/search2.png)
 ### Username Search failed
 ![Search functionality for usernames](./screenshots/Search.png)
 
